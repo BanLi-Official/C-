@@ -1,0 +1,13 @@
+F:\WORKS\c#\实验1\P43\P43\bin\Debug\netcoreapp3.1\P43.exe
+F:\WORKS\c#\实验1\P43\P43\bin\Debug\netcoreapp3.1\P43.deps.json
+F:\WORKS\c#\实验1\P43\P43\bin\Debug\netcoreapp3.1\P43.runtimeconfig.json
+F:\WORKS\c#\实验1\P43\P43\bin\Debug\netcoreapp3.1\P43.runtimeconfig.dev.json
+F:\WORKS\c#\实验1\P43\P43\bin\Debug\netcoreapp3.1\P43.dll
+F:\WORKS\c#\实验1\P43\P43\bin\Debug\netcoreapp3.1\P43.pdb
+F:\WORKS\c#\实验1\P43\P43\obj\Debug\netcoreapp3.1\P43.csproj.AssemblyReference.cache
+F:\WORKS\c#\实验1\P43\P43\obj\Debug\netcoreapp3.1\P43.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验1\P43\P43\obj\Debug\netcoreapp3.1\P43.AssemblyInfo.cs
+F:\WORKS\c#\实验1\P43\P43\obj\Debug\netcoreapp3.1\P43.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验1\P43\P43\obj\Debug\netcoreapp3.1\P43.dll
+F:\WORKS\c#\实验1\P43\P43\obj\Debug\netcoreapp3.1\P43.pdb
+F:\WORKS\c#\实验1\P43\P43\obj\Debug\netcoreapp3.1\P43.genruntimeconfig.cache
