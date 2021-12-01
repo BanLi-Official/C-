@@ -1,0 +1,12 @@
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\bin\Debug\netcoreapp3.1\P146_2.exe
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\bin\Debug\netcoreapp3.1\P146_2.deps.json
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\bin\Debug\netcoreapp3.1\P146_2.runtimeconfig.json
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\bin\Debug\netcoreapp3.1\P146_2.runtimeconfig.dev.json
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\bin\Debug\netcoreapp3.1\P146_2.dll
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\bin\Debug\netcoreapp3.1\P146_2.pdb
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\obj\Debug\netcoreapp3.1\P146_2.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\obj\Debug\netcoreapp3.1\P146_2.AssemblyInfo.cs
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\obj\Debug\netcoreapp3.1\P146_2.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\obj\Debug\netcoreapp3.1\P146_2.dll
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\obj\Debug\netcoreapp3.1\P146_2.pdb
+F:\WORKS\c#\实验3\P146_2\P146_2\P146_2\obj\Debug\netcoreapp3.1\P146_2.genruntimeconfig.cache
