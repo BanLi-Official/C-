@@ -1,0 +1,15 @@
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\bin\Debug\netcoreapp3.1\P65_1.exe
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\bin\Debug\netcoreapp3.1\P65_1.deps.json
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\bin\Debug\netcoreapp3.1\P65_1.runtimeconfig.json
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\bin\Debug\netcoreapp3.1\P65_1.runtimeconfig.dev.json
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\bin\Debug\netcoreapp3.1\P65_1.dll
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\bin\Debug\netcoreapp3.1\P65_1.pdb
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.csproj.AssemblyReference.cache
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.Form1.resources
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.csproj.GenerateResource.cache
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.AssemblyInfo.cs
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.dll
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.pdb
+F:\WORKS\c#\实验2\P65_1\P65_1\P65_1\obj\Debug\netcoreapp3.1\P65_1.genruntimeconfig.cache
