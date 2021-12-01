@@ -1,0 +1,15 @@
+F:\WORKS\c#\实验1\P83_2\P83_2\bin\Debug\netcoreapp3.1\P83_2.exe
+F:\WORKS\c#\实验1\P83_2\P83_2\bin\Debug\netcoreapp3.1\P83_2.deps.json
+F:\WORKS\c#\实验1\P83_2\P83_2\bin\Debug\netcoreapp3.1\P83_2.runtimeconfig.json
+F:\WORKS\c#\实验1\P83_2\P83_2\bin\Debug\netcoreapp3.1\P83_2.runtimeconfig.dev.json
+F:\WORKS\c#\实验1\P83_2\P83_2\bin\Debug\netcoreapp3.1\P83_2.dll
+F:\WORKS\c#\实验1\P83_2\P83_2\bin\Debug\netcoreapp3.1\P83_2.pdb
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.csproj.AssemblyReference.cache
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.Form1.resources
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.csproj.GenerateResource.cache
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.AssemblyInfo.cs
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.dll
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.pdb
+F:\WORKS\c#\实验1\P83_2\P83_2\obj\Debug\netcoreapp3.1\P83_2.genruntimeconfig.cache
