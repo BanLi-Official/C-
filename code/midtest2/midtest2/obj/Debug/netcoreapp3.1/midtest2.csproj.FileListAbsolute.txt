@@ -1,0 +1,13 @@
+F:\WORKS\c#\code\midtest2\midtest2\obj\Debug\netcoreapp3.1\midtest2.csproj.AssemblyReference.cache
+F:\WORKS\c#\code\midtest2\midtest2\obj\Debug\netcoreapp3.1\midtest2.AssemblyInfoInputs.cache
+F:\WORKS\c#\code\midtest2\midtest2\obj\Debug\netcoreapp3.1\midtest2.AssemblyInfo.cs
+F:\WORKS\c#\code\midtest2\midtest2\obj\Debug\netcoreapp3.1\midtest2.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\code\midtest2\midtest2\bin\Debug\netcoreapp3.1\midtest2.exe
+F:\WORKS\c#\code\midtest2\midtest2\bin\Debug\netcoreapp3.1\midtest2.deps.json
+F:\WORKS\c#\code\midtest2\midtest2\bin\Debug\netcoreapp3.1\midtest2.runtimeconfig.json
+F:\WORKS\c#\code\midtest2\midtest2\bin\Debug\netcoreapp3.1\midtest2.runtimeconfig.dev.json
+F:\WORKS\c#\code\midtest2\midtest2\bin\Debug\netcoreapp3.1\midtest2.dll
+F:\WORKS\c#\code\midtest2\midtest2\bin\Debug\netcoreapp3.1\midtest2.pdb
+F:\WORKS\c#\code\midtest2\midtest2\obj\Debug\netcoreapp3.1\midtest2.dll
+F:\WORKS\c#\code\midtest2\midtest2\obj\Debug\netcoreapp3.1\midtest2.pdb
+F:\WORKS\c#\code\midtest2\midtest2\obj\Debug\netcoreapp3.1\midtest2.genruntimeconfig.cache
