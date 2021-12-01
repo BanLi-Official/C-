@@ -1,0 +1,13 @@
+F:\WORKS\c#\实验4\T1\T1\T1\bin\Debug\netcoreapp3.1\T1.exe
+F:\WORKS\c#\实验4\T1\T1\T1\bin\Debug\netcoreapp3.1\T1.deps.json
+F:\WORKS\c#\实验4\T1\T1\T1\bin\Debug\netcoreapp3.1\T1.runtimeconfig.json
+F:\WORKS\c#\实验4\T1\T1\T1\bin\Debug\netcoreapp3.1\T1.runtimeconfig.dev.json
+F:\WORKS\c#\实验4\T1\T1\T1\bin\Debug\netcoreapp3.1\T1.dll
+F:\WORKS\c#\实验4\T1\T1\T1\bin\Debug\netcoreapp3.1\T1.pdb
+F:\WORKS\c#\实验4\T1\T1\T1\obj\Debug\netcoreapp3.1\T1.csproj.AssemblyReference.cache
+F:\WORKS\c#\实验4\T1\T1\T1\obj\Debug\netcoreapp3.1\T1.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验4\T1\T1\T1\obj\Debug\netcoreapp3.1\T1.AssemblyInfo.cs
+F:\WORKS\c#\实验4\T1\T1\T1\obj\Debug\netcoreapp3.1\T1.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验4\T1\T1\T1\obj\Debug\netcoreapp3.1\T1.dll
+F:\WORKS\c#\实验4\T1\T1\T1\obj\Debug\netcoreapp3.1\T1.pdb
+F:\WORKS\c#\实验4\T1\T1\T1\obj\Debug\netcoreapp3.1\T1.genruntimeconfig.cache
