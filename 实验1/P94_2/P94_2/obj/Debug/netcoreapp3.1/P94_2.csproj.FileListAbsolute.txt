@@ -1,0 +1,12 @@
+F:\WORKS\c#\实验1\P94_2\P94_2\bin\Debug\netcoreapp3.1\P94_2.exe
+F:\WORKS\c#\实验1\P94_2\P94_2\bin\Debug\netcoreapp3.1\P94_2.deps.json
+F:\WORKS\c#\实验1\P94_2\P94_2\bin\Debug\netcoreapp3.1\P94_2.runtimeconfig.json
+F:\WORKS\c#\实验1\P94_2\P94_2\bin\Debug\netcoreapp3.1\P94_2.runtimeconfig.dev.json
+F:\WORKS\c#\实验1\P94_2\P94_2\bin\Debug\netcoreapp3.1\P94_2.dll
+F:\WORKS\c#\实验1\P94_2\P94_2\bin\Debug\netcoreapp3.1\P94_2.pdb
+F:\WORKS\c#\实验1\P94_2\P94_2\obj\Debug\netcoreapp3.1\P94_2.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验1\P94_2\P94_2\obj\Debug\netcoreapp3.1\P94_2.AssemblyInfo.cs
+F:\WORKS\c#\实验1\P94_2\P94_2\obj\Debug\netcoreapp3.1\P94_2.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验1\P94_2\P94_2\obj\Debug\netcoreapp3.1\P94_2.dll
+F:\WORKS\c#\实验1\P94_2\P94_2\obj\Debug\netcoreapp3.1\P94_2.pdb
+F:\WORKS\c#\实验1\P94_2\P94_2\obj\Debug\netcoreapp3.1\P94_2.genruntimeconfig.cache
