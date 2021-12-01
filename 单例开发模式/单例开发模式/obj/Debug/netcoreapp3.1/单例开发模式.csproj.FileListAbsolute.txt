@@ -1,0 +1,13 @@
+F:\WORKS\c#\单例开发模式\单例开发模式\bin\Debug\netcoreapp3.1\单例开发模式.exe
+F:\WORKS\c#\单例开发模式\单例开发模式\bin\Debug\netcoreapp3.1\单例开发模式.deps.json
+F:\WORKS\c#\单例开发模式\单例开发模式\bin\Debug\netcoreapp3.1\单例开发模式.runtimeconfig.json
+F:\WORKS\c#\单例开发模式\单例开发模式\bin\Debug\netcoreapp3.1\单例开发模式.runtimeconfig.dev.json
+F:\WORKS\c#\单例开发模式\单例开发模式\bin\Debug\netcoreapp3.1\单例开发模式.dll
+F:\WORKS\c#\单例开发模式\单例开发模式\bin\Debug\netcoreapp3.1\单例开发模式.pdb
+F:\WORKS\c#\单例开发模式\单例开发模式\obj\Debug\netcoreapp3.1\单例开发模式.csproj.AssemblyReference.cache
+F:\WORKS\c#\单例开发模式\单例开发模式\obj\Debug\netcoreapp3.1\单例开发模式.AssemblyInfoInputs.cache
+F:\WORKS\c#\单例开发模式\单例开发模式\obj\Debug\netcoreapp3.1\单例开发模式.AssemblyInfo.cs
+F:\WORKS\c#\单例开发模式\单例开发模式\obj\Debug\netcoreapp3.1\单例开发模式.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\单例开发模式\单例开发模式\obj\Debug\netcoreapp3.1\单例开发模式.dll
+F:\WORKS\c#\单例开发模式\单例开发模式\obj\Debug\netcoreapp3.1\单例开发模式.pdb
+F:\WORKS\c#\单例开发模式\单例开发模式\obj\Debug\netcoreapp3.1\单例开发模式.genruntimeconfig.cache
