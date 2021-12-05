@@ -1,0 +1,15 @@
+F:\WORKS\c#\实验7\T2\T2\T2\bin\Debug\netcoreapp3.1\T2.exe
+F:\WORKS\c#\实验7\T2\T2\T2\bin\Debug\netcoreapp3.1\T2.deps.json
+F:\WORKS\c#\实验7\T2\T2\T2\bin\Debug\netcoreapp3.1\T2.runtimeconfig.json
+F:\WORKS\c#\实验7\T2\T2\T2\bin\Debug\netcoreapp3.1\T2.runtimeconfig.dev.json
+F:\WORKS\c#\实验7\T2\T2\T2\bin\Debug\netcoreapp3.1\T2.dll
+F:\WORKS\c#\实验7\T2\T2\T2\bin\Debug\netcoreapp3.1\T2.pdb
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.Form1.resources
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.csproj.GenerateResource.cache
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.AssemblyInfo.cs
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.dll
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.pdb
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.genruntimeconfig.cache
+F:\WORKS\c#\实验7\T2\T2\T2\obj\Debug\netcoreapp3.1\T2.csproj.AssemblyReference.cache

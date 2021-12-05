@@ -1,0 +1,15 @@
+F:\WORKS\c#\实验7\P234\P234\P234\bin\Debug\netcoreapp3.1\P234.exe
+F:\WORKS\c#\实验7\P234\P234\P234\bin\Debug\netcoreapp3.1\P234.deps.json
+F:\WORKS\c#\实验7\P234\P234\P234\bin\Debug\netcoreapp3.1\P234.runtimeconfig.json
+F:\WORKS\c#\实验7\P234\P234\P234\bin\Debug\netcoreapp3.1\P234.runtimeconfig.dev.json
+F:\WORKS\c#\实验7\P234\P234\P234\bin\Debug\netcoreapp3.1\P234.dll
+F:\WORKS\c#\实验7\P234\P234\P234\bin\Debug\netcoreapp3.1\P234.pdb
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.Form1.resources
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.csproj.GenerateResource.cache
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.AssemblyInfo.cs
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.dll
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.pdb
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.genruntimeconfig.cache
+F:\WORKS\c#\实验7\P234\P234\P234\obj\Debug\netcoreapp3.1\P234.csproj.AssemblyReference.cache
