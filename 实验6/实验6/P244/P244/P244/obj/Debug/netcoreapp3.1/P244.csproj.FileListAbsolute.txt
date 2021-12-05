@@ -1,0 +1,12 @@
+F:\WORKS\c#\实验6\P244\P244\P244\bin\Debug\netcoreapp3.1\P244.exe
+F:\WORKS\c#\实验6\P244\P244\P244\bin\Debug\netcoreapp3.1\P244.deps.json
+F:\WORKS\c#\实验6\P244\P244\P244\bin\Debug\netcoreapp3.1\P244.runtimeconfig.json
+F:\WORKS\c#\实验6\P244\P244\P244\bin\Debug\netcoreapp3.1\P244.runtimeconfig.dev.json
+F:\WORKS\c#\实验6\P244\P244\P244\bin\Debug\netcoreapp3.1\P244.dll
+F:\WORKS\c#\实验6\P244\P244\P244\bin\Debug\netcoreapp3.1\P244.pdb
+F:\WORKS\c#\实验6\P244\P244\P244\obj\Debug\netcoreapp3.1\P244.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验6\P244\P244\P244\obj\Debug\netcoreapp3.1\P244.AssemblyInfo.cs
+F:\WORKS\c#\实验6\P244\P244\P244\obj\Debug\netcoreapp3.1\P244.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验6\P244\P244\P244\obj\Debug\netcoreapp3.1\P244.dll
+F:\WORKS\c#\实验6\P244\P244\P244\obj\Debug\netcoreapp3.1\P244.pdb
+F:\WORKS\c#\实验6\P244\P244\P244\obj\Debug\netcoreapp3.1\P244.genruntimeconfig.cache
