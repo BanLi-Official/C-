@@ -1,0 +1,13 @@
+F:\WORKS\c#\实验5\P214\P214\P214\bin\Debug\netcoreapp3.1\P214.exe
+F:\WORKS\c#\实验5\P214\P214\P214\bin\Debug\netcoreapp3.1\P214.deps.json
+F:\WORKS\c#\实验5\P214\P214\P214\bin\Debug\netcoreapp3.1\P214.runtimeconfig.json
+F:\WORKS\c#\实验5\P214\P214\P214\bin\Debug\netcoreapp3.1\P214.runtimeconfig.dev.json
+F:\WORKS\c#\实验5\P214\P214\P214\bin\Debug\netcoreapp3.1\P214.dll
+F:\WORKS\c#\实验5\P214\P214\P214\bin\Debug\netcoreapp3.1\P214.pdb
+F:\WORKS\c#\实验5\P214\P214\P214\obj\Debug\netcoreapp3.1\P214.csproj.AssemblyReference.cache
+F:\WORKS\c#\实验5\P214\P214\P214\obj\Debug\netcoreapp3.1\P214.AssemblyInfoInputs.cache
+F:\WORKS\c#\实验5\P214\P214\P214\obj\Debug\netcoreapp3.1\P214.AssemblyInfo.cs
+F:\WORKS\c#\实验5\P214\P214\P214\obj\Debug\netcoreapp3.1\P214.csproj.CoreCompileInputs.cache
+F:\WORKS\c#\实验5\P214\P214\P214\obj\Debug\netcoreapp3.1\P214.dll
+F:\WORKS\c#\实验5\P214\P214\P214\obj\Debug\netcoreapp3.1\P214.pdb
+F:\WORKS\c#\实验5\P214\P214\P214\obj\Debug\netcoreapp3.1\P214.genruntimeconfig.cache
